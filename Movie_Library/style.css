@@ -1,0 +1,25 @@
+
+body {
+    background-color: #1F2937;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#header > h1 {
+   color: #4ADF86; 
+   font-size: 3.5em;
+   font-weight: bold;
+}
+#search-title {
+    color: #fff;
+}
+#table-thead {
+    background-color: #10B981;
+    color: #fff;
+}
+#form-container {
+    background-color: #10B981;
+    height: 500px;
+}
+th,td {
+    border-style: solid;
+    border-color: #10B981;
+}
